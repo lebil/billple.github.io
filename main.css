@@ -1,3 +1,71 @@
+/*Big Parents*/
+body {
+  background-color: rgb(214, 234, 248);
+  margin: 0 auto;
+  font-family: arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.content-body {
+  background-color: #FBFCFC;
+  height: 1000px;
+  width: 1300px;
+  margin: 0 auto;
+}
+
+/*Sections*/
+
+.about{
+  margin: 0px auto;
+  padding: 20px;
+  width: 850px;
+  text-align: left;
+}
+
+.section-titles {
+  font-size: 36px;
+  padding: 10px 0px;
+  text-align: left;
+}
+
+/*Navigation*/
+
+nav ul li a{
+  text-decoration: none;
+  color: inherit;
+}
+
+nav ul li{
+  display: inline-block;
+  text-indent: 10px;
+  color: white;
+  font-family: sans-serif;
+  padding: 0.5em 0.8em;
+}
+
+nav ul{
+  margin: 0 auto;
+}
+
+#logo{
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-left: 20px;
+  color: white;
+  float: left;
+}
+
+.header {
+  background-color: #2471A3;
+}
+
+p {
+  font-size: 18px;
+}
+
+
+/*
 .read-btn a {
   cursor: pointer;
   margin-right: 30px;
@@ -9,7 +77,4 @@
 .read-btn a:active {
   top: 2px;
 }
-
-body {
-  text-align: center;
-}
+*/
