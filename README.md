@@ -1,2 +1,2 @@
-# lebill.github.io
+# lebil.github.io
 Personal Website in construction
